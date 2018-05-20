@@ -1,0 +1,9 @@
+[{
+  "modid": "de.elpct.minewar",
+  "name": "The Great Minewar",
+  "description": "Bringing industrialized warfare to Minecraft.",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["elcpt"],
+  "credits": "Why the fuck does this file not work"
+}]
