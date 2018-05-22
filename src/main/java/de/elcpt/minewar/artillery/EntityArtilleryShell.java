@@ -79,7 +79,16 @@ public class EntityArtilleryShell extends EntityLargeFireball {
 
         } else {
 
-            world.setBlockState(toReplace, StartupCommon.blockScorchedDirt.getDefaultState());
+            int randomInteger = ThreadLocalRandom.current().nextInt(0, 100);
+            if (randomInteger > 25) {
+
+                world.setBlockState(toReplace, StartupCommon.blockScorchedDirt.getDefaultState());
+
+            } else {
+
+                world.setBlockState(toReplace, StartupCommon.blockDebris.getDefaultState());
+
+            }
 
         }
     }

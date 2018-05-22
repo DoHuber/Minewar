@@ -1,11 +1,11 @@
 {
     "parent": "block/cube",
     "textures": {
-        "down": "minewar:mbe01_block_simple_face0",
-        "up": "minewar:mbe01_block_simple_face1",
-        "north": "minewar:mbe01_block_simple_face2",
+        "down": "minewar:artillery_rest",
+        "up": "minewar:artillery_up",
+        "north": "minewar:artillery_rest",
         "east": "minewar:mbe01_block_simple_face5",
-        "south": "minewar:mbe01_block_simple_face3",
+        "south": "minewar:artillery_rest",
         "west": "minewar:mbe01_block_simple_face4",
         "particle": "blocks/lapis_block"
     }
