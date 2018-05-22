@@ -1,5 +1,9 @@
 {
     "variants": {
-        "normal": { "model": "minewar:mbe01_block_simple_model" }
+        "normal": { "model": "minewar:mbe01_block_simple_model" },
+        "facing=north": {"model": "minewar:mbe01_block_simple_model"},
+        "facing=east": {"model": "minewar:mbe01_block_simple_model", "y": 90},
+        "facing=south": {"model": "minewar:mbe01_block_simple_model", "y": 180},
+        "facing=west": {"model": "minewar:mbe01_block_simple_model", "y": 270}
     }
 }
