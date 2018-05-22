@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "minewar:scorched_dirt_allfaces",
+        "up": "minewar:scorched_dirt_allfaces",
+        "north": "minewar:scorched_dirt_allfaces",
+        "east": "minewar:scorched_dirt_allfaces",
+        "south": "minewar:scorched_dirt_allfaces",
+        "west": "minewar:scorched_dirt_allfaces",
+        "particle": "blocks/lapis_block"
+    }
+}

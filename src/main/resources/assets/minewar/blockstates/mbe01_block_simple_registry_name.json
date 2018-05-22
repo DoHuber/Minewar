@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "minewar:mbe01_block_simple_model" }
+    }
+}

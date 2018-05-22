@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "minewar:debris_allfaces",
+        "up": "minewar:debris_allfaces",
+        "north": "minewar:debris_allfaces",
+        "east": "minewar:debris_allfaces",
+        "south": "minewar:debris_allfaces",
+        "west": "minewar:debris_allfaces",
+        "particle": "blocks/lapis_block"
+    }
+}
